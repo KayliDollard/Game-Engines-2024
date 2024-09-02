@@ -1,3 +1,0 @@
-
-current_turn = "player"; 
-
